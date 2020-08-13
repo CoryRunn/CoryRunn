@@ -24,6 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coryrunn&show_icons=true" alt="coryrunn" /></p>
 
 <p align="center">
-<a style="color: #d80032;" href="https://twitter.com/coryrunn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coryrunn" height="30" width="30"/></a>
-<a color="#d80032;" href="https://linkedin.com/in/coryrunnells" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coryrunnells" height="30" width="30" /></a>
+<a href="https://twitter.com/coryrunn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coryrunn" height="30" width="30"  style="color:#d80032;"/></a>
+<a  href="https://linkedin.com/in/coryrunnells" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coryrunnells" height="30" width="30" style="color:#d80032;" /></a>
 </p>
