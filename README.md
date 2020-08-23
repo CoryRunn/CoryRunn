@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cory</h1>
-<h3 align="center">A career-changer pursuing Front End Development</h3>
+<h3 align="center">I'm a self-taught, front-end developer that specializes in responsive web design.</h3>
 
-- 🔭 I’m currently working on **TipCalculator**
+- 🔭 I’m currently working on **All things Web Dev**
 
-- 🌱 I’m currently learning **Vanilla JavScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **ANYTHING!**
 
