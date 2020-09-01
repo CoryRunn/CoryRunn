@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **JavaScript, Freelance Clients**
 
-- 👨‍💻 All of my projects are available at [https://www.coryrunnells.com](https://www.coryrunnells.com), [https//www.github.com/CoryRunn/](https//www.github.com/CoryRunn)
+- 👨‍💻 All of my projects are available at [https://www.coryrunnells.com](https://www.coryrunnells.com), [https://www.github.com/CoryRunn/](https//www.github.com/CoryRunn)
 
 - 📝 I regulary write articles on [https://www.coryblogs.dev](https://www.coryblogs.dev)
 
